@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #444444;
+}
+tilt {
+  margin: 109px;
+}
+h1 {
+  width: 255px;
+  color: red;
+  margin: 0 auto 8px;
+  font-family: "Arial", sans-serif;
+  text-align: center;
+  font-weight: normal;
+  font-size: 56px;
+  line-height: 64px;
+}
+
+.container {
+  width: 510px;
+  margin: 0 auto;
+  padding: 0 20px;
+  color: black;
+}
+
+
+
+.site-header p {
+  width: -700px;
+  height: 100px;
+  margin: 0 auto 64px;
+  text-align: center;
+  font-size: 32px;
+  line-height: 30px;
+  color :black;
+}
+
+.site-header img {
+  display: block;
+  margin: 0 auto;
+}
+
+.features {
+  height:250px;
+  width: 250px;
+  margin: 0 auto 30px;
+}
+.hist {
+  height:10px;
+  width: 1000px;
+  margin: 100px;
+  line-height: 64px;
+  font-family: "Arial", sans-serif;
+  text-align: 100px;
+  font-weight: normal;
+  font-size: 40px;
+}
+.tixt {
+  height:64px;
+  width: 500px;
+  margin: 100px;
+  line-height: 32px;
+  font-family: "Arial", sans-serif;
+  text-align: 100px;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+.features p {
+  weight : 250px;
+  height:  250px;
+}
+
+.feature-furniture {
+  height : 250px;
+  background-image: url("varian.png");
+}
+.a {
+  height : 250px;
+  background-image: url("varian.png");
+}
+
+.advantages {
+  width: 510px;
+  margin: 0 auto 40px;
+  padding: 0 20px;
+  font-family: "Arial", sans-serif;
+  text-align: 100px;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.advantages-list {
+  padding: 0;
+}
+
+.site-footer {
+  min-width: 550px;
+  background-color: #847462;
+  color: #ffffff;
+}
+
+.site-footer .container {
+  text-align: center;
+}
+
+.site-footer p {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 20px;
+}
+.dota
+{
+    margin: 150px;
+}
+
